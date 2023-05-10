@@ -62,3 +62,6 @@ publishing {
         }
     }
 }
+
+// just dummy task for jitpack
+tasks.create("assemble")
